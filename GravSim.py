@@ -9,6 +9,8 @@ import matplotlib.pyplot as plt
 A = 10
 dt = .01
 
+## Push test. New desktop 9/25
+
 def custom_norm(array):
     return sum([_**2 for _ in array])**.5
 
